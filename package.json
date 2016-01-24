@@ -1,0 +1,7 @@
+'devDependencies': {
+  "karma": "~0.8"
+},
+
+'scripts': {
+    "test": "karma start --single-run karma.conf.js"
+}
