@@ -7,6 +7,6 @@
 	},
 
 	"scripts": {
-    	"test": "karma start --single-run karma.conf.js"
+    	"test": "karma start --single-run --browsers PhantomJS"
 	}
 }
