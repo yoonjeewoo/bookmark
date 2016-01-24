@@ -4,6 +4,7 @@
   		"jasmine-core": "~2.4.1",
 		"karma-chrome-launcher": "~0.2.2",
 		"phantomjs": "~1.9.19",
+		"karma-phantomjs-launcher": "~0.2.3",
     	"karma-jasmine": "~0.3.6"
 	},
 
