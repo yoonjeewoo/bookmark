@@ -18,7 +18,7 @@ app.controller("Ctrl", function ($scope, $firebaseArray, $http, $bookmarkList) {
     	url: $scope.url,
     	title: "TBA"
   	});   
-  };
+  }; 
     
   $scope.add = function(a, b) {
     return a+b;
